@@ -1,0 +1,48 @@
+Abant Gölü Millî Parkı;Bolu;2022;1262
+Ağrı Dağı Millî Parkı;Ağrı,Iğdır;2004;88015
+Aladağlar Millî Parkı;Adana,Kayseri,Niğde;1995;55064
+Altınbeşik Mağarası Millî Parkı;Antalya;1994;1147
+Altındere Vadisi Millî Parkı;Trabzon;1987;4468
+Başkomutan Tarihî Millî Parkı;Afyon,Kütahya,Uşak;1981;34834
+Beydağları Sahil Millî Parkı;Antalya;1972;31166
+Beyşehir Gölü Millî Parkı;Konya;1993;86855
+Boğazköy-Alacahöyük Millî Parkı;Çorum;1988;2600
+Botan Vadisi Millî Parkı;Siirt;2019;11384
+Derebucak Çamlık Mağaraları Millî Parkı;Konya;2022;1147
+Dilek Yarımadası-Büyük Menderes Deltası Millî Parkı;Aydın;1966;27598
+Gala Gölü Millî Parkı;Edirne;2005;6087
+Güllük Dağı Millî Parkı;Antalya;1970;6700
+Hakkâri Cilo ve Sat Dağları Millî Parkı;Hakkâri;2020;27500
+Hatila Vadisi Millî Parkı; Artvin;1994;16944
+Honaz Dağı Millî Parkı;Denizli;1995;9429
+Ilgaz Dağı Millî Parkı;Çankırı,Kastamonu;1976;1118
+İğneada Longoz Ormanları Millî Parkı;Kırklareli;2007;3155
+İstiklâl Yolu Tarihî Millî Parkı;Ankara,Çankırı,Kastamonu;2018;235
+Kaçkar Dağları Millî Parkı;Artvin,Erzurum,Rize;1994;52970
+Karagöl-Sahara Millî Parkı;Artvin;1994;3251
+Karatepe-Aslantaş Millî Parkı;Osmaniye;1958;4143
+Kazdağı Millî Parkı;Balıkesir;1994;20935
+Kızıldağ Millî Parkı;Isparta;1969;55106
+Kop Dağı Müdafaası Tarihî Millî Parkı;Bayburt,Erzurum;2016;6335
+Kovada Gölü Millî Parkı;Isparta;1970;6551
+Köprülü Kanyon Millî Parkı;Antalya;1973;35719
+Kuşcenneti Millî Parkı;Balıkesir;1959;17058
+Küre Dağları Millî Parkı;Bartın,Kastamonu;2000;37753
+Malazgirt Meydan Muharebesi Tarihî Millî Parkı;Muş;2018;238
+Marmaris Millî Parkı;Muğla;1996;29206
+Munzur Vadisi Millî Parkı;Tunceli;1971;42674
+Nemrut Dağı Millî Parkı;Adıyaman,Malatya;1988;13827
+Nene Hatun Tarihî Millî Parkı;Erzurum;2009;387
+Sakarya Meydan Muharebesi Tarihî Millî Parkı;Ankara;2015;13850
+Saklıkent Millî Parkı;Antalya,Muğla;1996;1643
+Sarıçalı Dağı Millî Parkı;Ankara;2021;1024
+Sarıkamış-Allahuekber Dağları Millî Parkı;Erzurum,Kars;2004;22520
+Soğuksu Millî Parkı;Ankara;1959;1186
+Spil Dağı Millî Parkı;İzmir,Manisa;1968;6801
+Sultansazlığı Millî Parkı;Kayseri;2006;24358
+Tek Tek Dağları Millî Parkı;Şanlıurfa;2007;19335
+Troya Tarihî Millî Parkı;Çanakkale;1996;13517
+Uludağ Millî Parkı;Bursa;1961;13024
+Yedigöller Millî Parkı;Bolu;1965;1623
+Yozgat Çamlığı Millî Parkı;Yozgat;1958;517
+Yumurtalık Lagünü Millî Parkı;Adana;2008;16980
